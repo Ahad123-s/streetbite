@@ -1,0 +1,52 @@
+html{
+    background-color: rgb(135, 32, 32);
+    font-family: "Zalando Sans expanded", sans-serif;
+    color: white;
+    margin-left: 5px;
+}
+
+h1{
+  text-align: center;
+  font-size: 40px;
+  color: khaki;
+}
+
+h2{
+    color: khaki;
+    text-align:left;    
+}
+.unique{
+    text-align:center;
+    color: white ;
+    line-height: 0.1px;
+
+}
+hr{
+    height: 5px;
+    background-color: rgb(161, 161, 161);
+    border: none;
+}
+nav, nav a{
+    color: gold;
+}
+
+nav,a:hover{
+    color: white;
+
+}
+table,tr,th,td{
+    border: 2px solid khaki;
+    border-collapse: collapse;
+    padding: 0.3rem;
+
+}
+a{
+    color: gold;
+}
+legend{
+    color: khaki;
+}
+#back, nav a{
+    text-align: center;
+    
+}
